@@ -15,6 +15,6 @@ def deps do
 end
 ```
 
-<!-- Please check the [Documentation](./doc) for more detailed information. -->
+Please check the [Documentation](./doc) for more detailed information.
 
 Please refer to the [Tests](./test) for more detailed information.
